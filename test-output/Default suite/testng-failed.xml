@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="dataProvider.ReadDataFromDifferentClass">
+      <class name="invocationCount.InvocationCount">
         <methods>
+          <include name="invocationCountPage"/>
           <include name="teardown"/>
-          <include name="launchData"/>
-          <include name="Login" invocation-numbers="0 1 2"/>
+          <include name="launchUrl"/>
         </methods>
-      </class> <!-- dataProvider.ReadDataFromDifferentClass -->
+      </class> <!-- invocationCount.InvocationCount -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

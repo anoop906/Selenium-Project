@@ -1,0 +1,21 @@
+01:40:13.696 [main] DEBUG Log4J - Execution has been started
+01:40:21.045 [main] DEBUG Log4J - Browser got launched
+01:40:21.187 [main] DEBUG Log4J - Browser got maximized
+01:40:37.649 [main] DEBUG Log4J - Navigated to hyrtutorials website
+01:40:40.272 [main] DEBUG Log4J - Clicekd on LinkedIn button and navigated to LinkedIn website
+01:40:40.941 [main] DEBUG Log4J - Navigated backward to hyrtutorials website
+01:40:43.473 [main] DEBUG Log4J - Navigated farward to LinkedIn website
+01:40:43.562 [main] INFO  Log4J - Success: The correct url got
+01:40:44.393 [main] DEBUG Log4J - Browser got closed and End of the Execution
+01:45:02.524 [main] DEBUG Log4J - Execution has been started
+01:45:08.872 [main] DEBUG Log4J - Browser got launched
+01:45:08.970 [main] DEBUG Log4J - Browser got maximized
+01:45:25.196 [main] DEBUG Log4J - Navigated to hyrtutorials website
+01:45:25.841 [main] DEBUG Log4J - Clicekd on LinkedIn button and navigated to LinkedIn website
+01:45:27.988 [main] DEBUG Log4J - Navigated backward to hyrtutorials website
+01:45:30.171 [main] DEBUG Log4J - Navigated farward to LinkedIn website
+01:45:30.483 [main] INFO  Log4J - Success: The correct url got
+01:45:31.687 [main] DEBUG Log4J - Browser got closed and End of the Execution
+01:47:25.484 [main] DEBUG Log4J - Execution has been started
+01:47:31.241 [main] DEBUG Log4J - Browser got launched
+01:47:31.337 [main] DEBUG Log4J - Browser got maximized
