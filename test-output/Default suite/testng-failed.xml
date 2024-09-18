@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="propertiesFile.PropertiesFile">
+      <class name="pageFactory.AltoroLogin">
         <methods>
-          <include name="HYRForm"/>
+          <include name="Login"/>
+          <include name="launchBrowser"/>
+          <include name="closeBrowser"/>
         </methods>
-      </class> <!-- propertiesFile.PropertiesFile -->
+      </class> <!-- pageFactory.AltoroLogin -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
