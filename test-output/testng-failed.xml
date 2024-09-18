@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="invocationCount.InvocationCount">
+      <class name="propertiesFile.PropertiesFile">
         <methods>
-          <include name="invocationCountPage"/>
-          <include name="teardown"/>
-          <include name="launchUrl"/>
+          <include name="HYRForm"/>
         </methods>
-      </class> <!-- invocationCount.InvocationCount -->
+      </class> <!-- propertiesFile.PropertiesFile -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
